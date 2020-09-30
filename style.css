@@ -33,7 +33,7 @@
     position:fixed;
     overflow:auto;
 }
-.left:active{
+.leftactive{
     display:block;
     padding:8px 16px;
     color:white;
